@@ -11,7 +11,7 @@ public class Main {
         toyo2.setdVelocidadMaxima(300);
         System.out.println("Velocidad Máxima: " + toyo2.getdVelocidadMaxima());
 
-
+       // "editado por TAMAR ALONDRA URIARTE QUIÑONES"
         System.out.println("========================================== ");
 
         Nissan nis = new Nissan(); // 220
